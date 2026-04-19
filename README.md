@@ -1,5 +1,5 @@
 # MediaPipe Fitness Action Recognition
-
+# 毕设自用
 基于 MediaPipe 与轻量级深度学习模型的健身动作智能识别系统。项目提供动作识别、实时计数、动作评分、训练记录管理与 AI 训练报告能力，适合作为毕业设计展示和二次开发基础。
 
 ## 功能概览
