@@ -1,0 +1,20 @@
+{
+  "train": {
+    "squat": 17407,
+    "push-up": 18500,
+    "crunches": 17815,
+    "lunge": 18415
+  },
+  "verify": {
+    "squat": 407,
+    "push-up": 304,
+    "crunches": 332,
+    "lunge": 264
+  },
+  "test": {
+    "squat": 368,
+    "push-up": 349,
+    "crunches": 270,
+    "lunge": 281
+  }
+}
